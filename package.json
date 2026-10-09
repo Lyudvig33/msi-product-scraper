@@ -1,0 +1,12 @@
+{
+  "name": "msi-product-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright scraper for one MSI product detail page",
+  "scripts": {
+    "scrape": "node src/scrape.js"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
